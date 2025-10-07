@@ -1,0 +1,1847 @@
+2025-10-06 17:52:10,409 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 17:52:10,409 - INFO - No history file found - starting with empty history
+2025-10-06 17:52:10,409 - INFO - Calculator initialized with configuration
+2025-10-06 17:52:10,409 - INFO - Added observer: LoggingObserver
+2025-10-06 17:52:10,409 - INFO - Added observer: AutoSaveObserver
+2025-10-06 17:52:10,410 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 17:52:10,410 - INFO - No history file found - starting with empty history
+2025-10-06 17:52:10,410 - INFO - Calculator initialized with configuration
+2025-10-06 17:52:10,410 - INFO - Added observer: LoggingObserver
+2025-10-06 17:52:10,410 - INFO - Added observer: AutoSaveObserver
+2025-10-06 17:52:10,413 - INFO - Empty history saved
+2025-10-06 17:52:10,414 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 17:52:10,416 - INFO - Loaded empty history file
+2025-10-06 17:52:10,416 - INFO - Calculator initialized with configuration
+2025-10-06 17:52:10,416 - INFO - Added observer: LoggingObserver
+2025-10-06 17:52:10,416 - INFO - Added observer: AutoSaveObserver
+2025-10-06 17:52:10,416 - INFO - Set operation: Addition
+2025-10-06 17:52:10,416 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 17:52:10,417 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 17:52:10,431 - INFO - History auto-saved
+2025-10-06 17:58:04,346 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 17:58:04,347 - INFO - Loaded 1 calculations from history
+2025-10-06 17:58:04,347 - INFO - Calculator initialized with configuration
+2025-10-06 17:58:04,347 - INFO - Added observer: LoggingObserver
+2025-10-06 17:58:04,347 - INFO - Added observer: AutoSaveObserver
+2025-10-06 17:58:04,348 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 17:58:04,349 - INFO - Loaded 1 calculations from history
+2025-10-06 17:58:04,349 - INFO - Calculator initialized with configuration
+2025-10-06 17:58:04,349 - INFO - Added observer: LoggingObserver
+2025-10-06 17:58:04,349 - INFO - Added observer: AutoSaveObserver
+2025-10-06 17:58:04,351 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 17:58:04,352 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 17:58:04,353 - INFO - Loaded 1 calculations from history
+2025-10-06 17:58:04,353 - INFO - Calculator initialized with configuration
+2025-10-06 17:58:04,353 - INFO - Added observer: LoggingObserver
+2025-10-06 17:58:04,353 - INFO - Added observer: AutoSaveObserver
+2025-10-06 17:58:04,353 - INFO - Set operation: Addition
+2025-10-06 17:58:04,353 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 17:58:04,354 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 17:58:04,368 - INFO - History auto-saved
+2025-10-06 18:01:43,217 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:01:43,218 - INFO - Loaded 2 calculations from history
+2025-10-06 18:01:43,218 - INFO - Calculator initialized with configuration
+2025-10-06 18:01:43,218 - INFO - Added observer: LoggingObserver
+2025-10-06 18:01:43,218 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:01:43,219 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:01:43,220 - INFO - Loaded 2 calculations from history
+2025-10-06 18:01:43,220 - INFO - Calculator initialized with configuration
+2025-10-06 18:01:43,220 - INFO - Added observer: LoggingObserver
+2025-10-06 18:01:43,220 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:01:43,222 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 18:01:43,222 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:01:43,223 - INFO - Loaded 2 calculations from history
+2025-10-06 18:01:43,223 - INFO - Calculator initialized with configuration
+2025-10-06 18:01:43,223 - INFO - Added observer: LoggingObserver
+2025-10-06 18:01:43,223 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:01:43,224 - INFO - Set operation: Addition
+2025-10-06 18:01:43,224 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 18:01:43,224 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 18:01:43,238 - INFO - History auto-saved
+2025-10-06 18:04:56,940 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:04:56,941 - INFO - Loaded 3 calculations from history
+2025-10-06 18:04:56,941 - INFO - Calculator initialized with configuration
+2025-10-06 18:04:56,941 - INFO - Added observer: LoggingObserver
+2025-10-06 18:04:56,941 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:04:56,942 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:04:56,943 - INFO - Loaded 3 calculations from history
+2025-10-06 18:04:56,943 - INFO - Calculator initialized with configuration
+2025-10-06 18:04:56,943 - INFO - Added observer: LoggingObserver
+2025-10-06 18:04:56,943 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:04:56,944 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 18:04:56,945 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:04:56,946 - INFO - Loaded 3 calculations from history
+2025-10-06 18:04:56,946 - INFO - Calculator initialized with configuration
+2025-10-06 18:04:56,946 - INFO - Added observer: LoggingObserver
+2025-10-06 18:04:56,946 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:04:56,946 - INFO - Set operation: Addition
+2025-10-06 18:04:56,946 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 18:04:56,947 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 18:04:56,961 - INFO - History auto-saved
+2025-10-06 18:06:12,449 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:06:12,450 - INFO - Loaded 4 calculations from history
+2025-10-06 18:06:12,450 - INFO - Calculator initialized with configuration
+2025-10-06 18:06:12,480 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:06:12,481 - INFO - Loaded 4 calculations from history
+2025-10-06 18:06:12,481 - INFO - Calculator initialized with configuration
+2025-10-06 18:06:12,481 - INFO - Added observer: LoggingObserver
+2025-10-06 18:06:12,481 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:06:12,482 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:06:12,482 - INFO - Loaded 4 calculations from history
+2025-10-06 18:06:12,482 - INFO - Calculator initialized with configuration
+2025-10-06 18:06:12,482 - INFO - Added observer: LoggingObserver
+2025-10-06 18:06:12,483 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:06:12,484 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 18:06:12,485 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:06:12,486 - INFO - Loaded 4 calculations from history
+2025-10-06 18:06:12,486 - INFO - Calculator initialized with configuration
+2025-10-06 18:06:12,486 - INFO - Added observer: LoggingObserver
+2025-10-06 18:06:12,486 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:06:12,486 - INFO - Set operation: Addition
+2025-10-06 18:06:12,486 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 18:06:12,487 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 18:06:12,501 - INFO - History auto-saved
+2025-10-06 18:07:46,594 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:07:46,595 - INFO - Loaded 5 calculations from history
+2025-10-06 18:07:46,595 - INFO - Calculator initialized with configuration
+2025-10-06 18:07:46,617 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:07:46,618 - INFO - Loaded 5 calculations from history
+2025-10-06 18:07:46,618 - INFO - Calculator initialized with configuration
+2025-10-06 18:07:46,618 - INFO - Added observer: LoggingObserver
+2025-10-06 18:07:46,618 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:07:46,619 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:07:46,620 - INFO - Loaded 5 calculations from history
+2025-10-06 18:07:46,620 - INFO - Calculator initialized with configuration
+2025-10-06 18:07:46,620 - INFO - Added observer: LoggingObserver
+2025-10-06 18:07:46,620 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:07:46,622 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 18:07:46,622 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:07:46,623 - INFO - Loaded 5 calculations from history
+2025-10-06 18:07:46,623 - INFO - Calculator initialized with configuration
+2025-10-06 18:07:46,623 - INFO - Added observer: LoggingObserver
+2025-10-06 18:07:46,624 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:07:46,624 - INFO - Set operation: Addition
+2025-10-06 18:07:46,624 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 18:07:46,625 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 18:07:46,638 - INFO - History auto-saved
+2025-10-06 18:08:04,106 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:08:04,107 - INFO - Loaded 6 calculations from history
+2025-10-06 18:08:04,107 - INFO - Calculator initialized with configuration
+2025-10-06 18:08:04,129 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:08:04,130 - INFO - Loaded 6 calculations from history
+2025-10-06 18:08:04,130 - INFO - Calculator initialized with configuration
+2025-10-06 18:08:04,130 - INFO - Added observer: LoggingObserver
+2025-10-06 18:08:04,130 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:08:04,131 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:08:04,132 - INFO - Loaded 6 calculations from history
+2025-10-06 18:08:04,132 - INFO - Calculator initialized with configuration
+2025-10-06 18:08:04,132 - INFO - Added observer: LoggingObserver
+2025-10-06 18:08:04,132 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:08:04,133 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 18:08:04,134 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:08:04,135 - INFO - Loaded 6 calculations from history
+2025-10-06 18:08:04,135 - INFO - Calculator initialized with configuration
+2025-10-06 18:08:04,135 - INFO - Added observer: LoggingObserver
+2025-10-06 18:08:04,135 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:08:04,135 - INFO - Set operation: Addition
+2025-10-06 18:08:04,135 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 18:08:04,136 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 18:08:04,148 - INFO - History auto-saved
+2025-10-06 18:08:52,643 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:08:52,645 - INFO - Loaded 7 calculations from history
+2025-10-06 18:08:52,645 - INFO - Calculator initialized with configuration
+2025-10-06 18:08:52,670 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:08:52,671 - INFO - Loaded 7 calculations from history
+2025-10-06 18:08:52,671 - INFO - Calculator initialized with configuration
+2025-10-06 18:08:52,671 - INFO - Added observer: LoggingObserver
+2025-10-06 18:08:52,671 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:08:52,672 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:08:52,673 - INFO - Loaded 7 calculations from history
+2025-10-06 18:08:52,673 - INFO - Calculator initialized with configuration
+2025-10-06 18:08:52,673 - INFO - Added observer: LoggingObserver
+2025-10-06 18:08:52,674 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:08:52,675 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 18:08:52,676 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:08:52,676 - INFO - Loaded 7 calculations from history
+2025-10-06 18:08:52,677 - INFO - Calculator initialized with configuration
+2025-10-06 18:08:52,677 - INFO - Added observer: LoggingObserver
+2025-10-06 18:08:52,677 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:08:52,677 - INFO - Set operation: Addition
+2025-10-06 18:08:52,677 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 18:08:52,677 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 18:08:52,691 - INFO - History auto-saved
+2025-10-06 18:11:08,992 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:11:08,993 - INFO - Loaded 8 calculations from history
+2025-10-06 18:11:08,993 - INFO - Calculator initialized with configuration
+2025-10-06 18:11:08,993 - INFO - Added observer: LoggingObserver
+2025-10-06 18:11:08,993 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:11:08,994 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:11:08,995 - INFO - Loaded 8 calculations from history
+2025-10-06 18:11:08,995 - INFO - Calculator initialized with configuration
+2025-10-06 18:11:08,995 - INFO - Added observer: LoggingObserver
+2025-10-06 18:11:08,995 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:11:08,996 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 18:11:08,997 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:11:08,998 - INFO - Loaded 8 calculations from history
+2025-10-06 18:11:08,998 - INFO - Calculator initialized with configuration
+2025-10-06 18:11:08,998 - INFO - Added observer: LoggingObserver
+2025-10-06 18:11:08,999 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:11:08,999 - INFO - Set operation: Addition
+2025-10-06 18:11:08,999 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 18:11:09,000 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 18:11:09,014 - INFO - History auto-saved
+2025-10-06 18:11:42,166 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:11:42,167 - INFO - Loaded 9 calculations from history
+2025-10-06 18:11:42,167 - INFO - Calculator initialized with configuration
+2025-10-06 18:11:42,167 - INFO - Added observer: LoggingObserver
+2025-10-06 18:11:42,167 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:11:42,168 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:11:42,170 - INFO - Loaded 9 calculations from history
+2025-10-06 18:11:42,170 - INFO - Calculator initialized with configuration
+2025-10-06 18:11:42,170 - INFO - Added observer: LoggingObserver
+2025-10-06 18:11:42,170 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:11:42,171 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 18:11:42,172 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:11:42,173 - INFO - Loaded 9 calculations from history
+2025-10-06 18:11:42,173 - INFO - Calculator initialized with configuration
+2025-10-06 18:11:42,173 - INFO - Added observer: LoggingObserver
+2025-10-06 18:11:42,173 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:11:42,173 - INFO - Set operation: Addition
+2025-10-06 18:11:42,173 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 18:11:42,174 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 18:11:42,188 - INFO - History auto-saved
+2025-10-06 18:13:22,194 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:13:22,195 - INFO - Loaded 10 calculations from history
+2025-10-06 18:13:22,195 - INFO - Calculator initialized with configuration
+2025-10-06 18:13:22,195 - INFO - Added observer: LoggingObserver
+2025-10-06 18:13:22,195 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:13:22,196 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:13:22,197 - INFO - Loaded 10 calculations from history
+2025-10-06 18:13:22,197 - INFO - Calculator initialized with configuration
+2025-10-06 18:13:22,197 - INFO - Added observer: LoggingObserver
+2025-10-06 18:13:22,197 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:13:22,199 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 18:13:22,199 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:13:22,201 - INFO - Loaded 10 calculations from history
+2025-10-06 18:13:22,201 - INFO - Calculator initialized with configuration
+2025-10-06 18:13:22,201 - INFO - Added observer: LoggingObserver
+2025-10-06 18:13:22,201 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:13:22,201 - INFO - Set operation: Addition
+2025-10-06 18:13:22,201 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 18:13:22,202 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 18:13:22,216 - INFO - History auto-saved
+2025-10-06 18:17:17,407 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:17:17,408 - INFO - Loaded 11 calculations from history
+2025-10-06 18:17:17,408 - INFO - Calculator initialized with configuration
+2025-10-06 18:17:17,408 - INFO - Added observer: LoggingObserver
+2025-10-06 18:17:17,408 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:17:17,409 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:17:17,411 - INFO - Loaded 11 calculations from history
+2025-10-06 18:17:17,411 - INFO - Calculator initialized with configuration
+2025-10-06 18:17:17,411 - INFO - Added observer: LoggingObserver
+2025-10-06 18:17:17,411 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:17:17,412 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 18:17:17,413 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:17:17,414 - INFO - Loaded 11 calculations from history
+2025-10-06 18:17:17,414 - INFO - Calculator initialized with configuration
+2025-10-06 18:17:17,414 - INFO - Added observer: LoggingObserver
+2025-10-06 18:17:17,414 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:17:17,415 - INFO - Set operation: Addition
+2025-10-06 18:17:17,415 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 18:17:17,415 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 18:17:17,429 - INFO - History auto-saved
+2025-10-06 18:17:39,269 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:17:39,271 - INFO - Loaded 12 calculations from history
+2025-10-06 18:17:39,271 - INFO - Calculator initialized with configuration
+2025-10-06 18:17:39,271 - INFO - Added observer: LoggingObserver
+2025-10-06 18:17:39,271 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:17:39,272 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:17:39,273 - INFO - Loaded 12 calculations from history
+2025-10-06 18:17:39,273 - INFO - Calculator initialized with configuration
+2025-10-06 18:17:39,273 - INFO - Added observer: LoggingObserver
+2025-10-06 18:17:39,273 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:17:39,274 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 18:17:39,275 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:17:39,277 - INFO - Loaded 12 calculations from history
+2025-10-06 18:17:39,277 - INFO - Calculator initialized with configuration
+2025-10-06 18:17:39,277 - INFO - Added observer: LoggingObserver
+2025-10-06 18:17:39,277 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:17:39,277 - INFO - Set operation: Addition
+2025-10-06 18:17:39,277 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 18:17:39,278 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 18:17:39,292 - INFO - History auto-saved
+2025-10-06 18:20:00,853 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:20:00,855 - INFO - Loaded 13 calculations from history
+2025-10-06 18:20:00,855 - INFO - Calculator initialized with configuration
+2025-10-06 18:20:00,855 - INFO - Added observer: LoggingObserver
+2025-10-06 18:20:00,855 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:20:00,856 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:20:00,857 - INFO - Loaded 13 calculations from history
+2025-10-06 18:20:00,857 - INFO - Calculator initialized with configuration
+2025-10-06 18:20:00,857 - INFO - Added observer: LoggingObserver
+2025-10-06 18:20:00,857 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:20:00,859 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 18:20:00,860 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:20:00,862 - INFO - Loaded 13 calculations from history
+2025-10-06 18:20:00,862 - INFO - Calculator initialized with configuration
+2025-10-06 18:20:00,862 - INFO - Added observer: LoggingObserver
+2025-10-06 18:20:00,862 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:20:00,862 - INFO - Set operation: Addition
+2025-10-06 18:20:00,862 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 18:20:00,863 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 18:20:00,878 - INFO - History auto-saved
+2025-10-06 18:25:05,071 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:25:05,072 - INFO - Loaded 14 calculations from history
+2025-10-06 18:25:05,072 - INFO - Calculator initialized with configuration
+2025-10-06 18:25:05,072 - INFO - Added observer: LoggingObserver
+2025-10-06 18:25:05,072 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:25:05,073 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:25:05,074 - INFO - Loaded 14 calculations from history
+2025-10-06 18:25:05,074 - INFO - Calculator initialized with configuration
+2025-10-06 18:25:05,074 - INFO - Added observer: LoggingObserver
+2025-10-06 18:25:05,074 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:25:05,076 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 18:25:05,077 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:25:05,078 - INFO - Loaded 14 calculations from history
+2025-10-06 18:25:05,078 - INFO - Calculator initialized with configuration
+2025-10-06 18:25:05,078 - INFO - Added observer: LoggingObserver
+2025-10-06 18:25:05,078 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:25:05,079 - INFO - Set operation: Addition
+2025-10-06 18:25:05,079 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 18:25:05,079 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 18:25:05,093 - INFO - History auto-saved
+2025-10-06 18:25:41,962 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:25:41,963 - INFO - Loaded 15 calculations from history
+2025-10-06 18:25:41,963 - INFO - Calculator initialized with configuration
+2025-10-06 18:25:41,963 - INFO - Added observer: LoggingObserver
+2025-10-06 18:25:41,963 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:25:41,965 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:25:41,966 - INFO - Loaded 15 calculations from history
+2025-10-06 18:25:41,966 - INFO - Calculator initialized with configuration
+2025-10-06 18:25:41,966 - INFO - Added observer: LoggingObserver
+2025-10-06 18:25:41,966 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:25:41,967 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 18:25:41,968 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:25:41,969 - INFO - Loaded 15 calculations from history
+2025-10-06 18:25:41,969 - INFO - Calculator initialized with configuration
+2025-10-06 18:25:41,969 - INFO - Added observer: LoggingObserver
+2025-10-06 18:25:41,969 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:25:41,969 - INFO - Set operation: Addition
+2025-10-06 18:25:41,969 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 18:25:41,970 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 18:25:41,985 - INFO - History auto-saved
+2025-10-06 18:32:50,915 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:32:50,916 - INFO - Loaded 16 calculations from history
+2025-10-06 18:32:50,916 - INFO - Calculator initialized with configuration
+2025-10-06 18:32:50,916 - INFO - Added observer: LoggingObserver
+2025-10-06 18:32:50,916 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:32:50,917 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:32:50,919 - INFO - Loaded 16 calculations from history
+2025-10-06 18:32:50,919 - INFO - Calculator initialized with configuration
+2025-10-06 18:32:50,919 - INFO - Added observer: LoggingObserver
+2025-10-06 18:32:50,919 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:32:50,921 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 18:32:50,922 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:32:50,923 - INFO - Loaded 16 calculations from history
+2025-10-06 18:32:50,923 - INFO - Calculator initialized with configuration
+2025-10-06 18:32:50,923 - INFO - Added observer: LoggingObserver
+2025-10-06 18:32:50,923 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:32:50,923 - INFO - Set operation: Addition
+2025-10-06 18:32:50,923 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 18:32:50,924 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 18:32:50,937 - INFO - History auto-saved
+2025-10-06 18:35:00,201 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:35:00,203 - INFO - Loaded 17 calculations from history
+2025-10-06 18:35:00,204 - INFO - Calculator initialized with configuration
+2025-10-06 18:35:00,204 - INFO - Added observer: LoggingObserver
+2025-10-06 18:35:00,204 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:35:00,205 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:35:00,206 - INFO - Loaded 17 calculations from history
+2025-10-06 18:35:00,206 - INFO - Calculator initialized with configuration
+2025-10-06 18:35:00,206 - INFO - Added observer: LoggingObserver
+2025-10-06 18:35:00,206 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:35:00,208 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 18:35:00,209 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:35:00,210 - INFO - Loaded 17 calculations from history
+2025-10-06 18:35:00,210 - INFO - Calculator initialized with configuration
+2025-10-06 18:35:00,210 - INFO - Added observer: LoggingObserver
+2025-10-06 18:35:00,210 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:35:00,210 - INFO - Set operation: Addition
+2025-10-06 18:35:00,210 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 18:35:00,211 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 18:35:00,225 - INFO - History auto-saved
+2025-10-06 18:35:58,507 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:35:58,509 - INFO - Loaded 18 calculations from history
+2025-10-06 18:35:58,509 - INFO - Calculator initialized with configuration
+2025-10-06 18:35:58,509 - INFO - Added observer: LoggingObserver
+2025-10-06 18:35:58,509 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:35:58,510 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:35:58,511 - INFO - Loaded 18 calculations from history
+2025-10-06 18:35:58,512 - INFO - Calculator initialized with configuration
+2025-10-06 18:35:58,512 - INFO - Added observer: LoggingObserver
+2025-10-06 18:35:58,512 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:35:58,513 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 18:35:58,515 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:35:58,516 - INFO - Loaded 18 calculations from history
+2025-10-06 18:35:58,516 - INFO - Calculator initialized with configuration
+2025-10-06 18:35:58,516 - INFO - Added observer: LoggingObserver
+2025-10-06 18:35:58,516 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:35:58,516 - INFO - Set operation: Addition
+2025-10-06 18:35:58,516 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 18:35:58,517 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 18:35:58,531 - INFO - History auto-saved
+2025-10-06 18:42:55,687 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:42:55,689 - INFO - Loaded 19 calculations from history
+2025-10-06 18:42:55,689 - INFO - Calculator initialized with configuration
+2025-10-06 18:42:55,689 - INFO - Added observer: LoggingObserver
+2025-10-06 18:42:55,689 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:42:55,690 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:42:55,692 - INFO - Loaded 19 calculations from history
+2025-10-06 18:42:55,692 - INFO - Calculator initialized with configuration
+2025-10-06 18:42:55,692 - INFO - Added observer: LoggingObserver
+2025-10-06 18:42:55,692 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:42:55,693 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 18:42:55,694 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:42:55,696 - INFO - Loaded 19 calculations from history
+2025-10-06 18:42:55,696 - INFO - Calculator initialized with configuration
+2025-10-06 18:42:55,696 - INFO - Added observer: LoggingObserver
+2025-10-06 18:42:55,696 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:42:55,696 - INFO - Set operation: Addition
+2025-10-06 18:42:55,696 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 18:42:55,697 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 18:42:55,712 - INFO - History auto-saved
+2025-10-06 18:47:46,619 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:47:46,621 - INFO - Loaded 20 calculations from history
+2025-10-06 18:47:46,621 - INFO - Calculator initialized with configuration
+2025-10-06 18:47:46,621 - INFO - Added observer: LoggingObserver
+2025-10-06 18:47:46,621 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:47:46,623 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:47:46,624 - INFO - Loaded 20 calculations from history
+2025-10-06 18:47:46,624 - INFO - Calculator initialized with configuration
+2025-10-06 18:47:46,624 - INFO - Added observer: LoggingObserver
+2025-10-06 18:47:46,624 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:47:46,626 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 18:47:46,627 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:47:46,629 - INFO - Loaded 20 calculations from history
+2025-10-06 18:47:46,629 - INFO - Calculator initialized with configuration
+2025-10-06 18:47:46,629 - INFO - Added observer: LoggingObserver
+2025-10-06 18:47:46,629 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:47:46,629 - INFO - Set operation: Addition
+2025-10-06 18:47:46,629 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 18:47:46,630 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 18:47:46,644 - INFO - History auto-saved
+2025-10-06 18:49:21,531 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:49:21,533 - INFO - Loaded 21 calculations from history
+2025-10-06 18:49:21,533 - INFO - Calculator initialized with configuration
+2025-10-06 18:49:21,533 - INFO - Added observer: LoggingObserver
+2025-10-06 18:49:21,533 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:49:21,534 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:49:21,536 - INFO - Loaded 21 calculations from history
+2025-10-06 18:49:21,536 - INFO - Calculator initialized with configuration
+2025-10-06 18:49:21,536 - INFO - Added observer: LoggingObserver
+2025-10-06 18:49:21,536 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:49:21,538 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 18:49:21,539 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:49:21,540 - INFO - Loaded 21 calculations from history
+2025-10-06 18:49:21,540 - INFO - Calculator initialized with configuration
+2025-10-06 18:49:21,540 - INFO - Added observer: LoggingObserver
+2025-10-06 18:49:21,541 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:49:21,541 - INFO - Set operation: Addition
+2025-10-06 18:49:21,541 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 18:49:21,541 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 18:49:21,556 - INFO - History auto-saved
+2025-10-06 18:49:46,469 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:49:46,471 - INFO - Loaded 22 calculations from history
+2025-10-06 18:49:46,471 - INFO - Calculator initialized with configuration
+2025-10-06 18:49:46,471 - INFO - Added observer: LoggingObserver
+2025-10-06 18:49:46,471 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:49:46,472 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:49:46,473 - INFO - Loaded 22 calculations from history
+2025-10-06 18:49:46,473 - INFO - Calculator initialized with configuration
+2025-10-06 18:49:46,473 - INFO - Added observer: LoggingObserver
+2025-10-06 18:49:46,473 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:49:46,475 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 18:49:46,476 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:49:46,477 - INFO - Loaded 22 calculations from history
+2025-10-06 18:49:46,477 - INFO - Calculator initialized with configuration
+2025-10-06 18:49:46,477 - INFO - Added observer: LoggingObserver
+2025-10-06 18:49:46,477 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:49:46,477 - INFO - Set operation: Addition
+2025-10-06 18:49:46,477 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 18:49:46,478 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 18:49:46,493 - INFO - History auto-saved
+2025-10-06 18:50:34,457 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:50:34,459 - INFO - Loaded 23 calculations from history
+2025-10-06 18:50:34,459 - INFO - Calculator initialized with configuration
+2025-10-06 18:50:34,459 - INFO - Added observer: LoggingObserver
+2025-10-06 18:50:34,459 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:50:34,461 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:50:34,462 - INFO - Loaded 23 calculations from history
+2025-10-06 18:50:34,462 - INFO - Calculator initialized with configuration
+2025-10-06 18:50:34,462 - INFO - Added observer: LoggingObserver
+2025-10-06 18:50:34,462 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:50:34,464 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 18:50:34,465 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:50:34,467 - INFO - Loaded 23 calculations from history
+2025-10-06 18:50:34,467 - INFO - Calculator initialized with configuration
+2025-10-06 18:50:34,467 - INFO - Added observer: LoggingObserver
+2025-10-06 18:50:34,467 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:50:34,467 - INFO - Set operation: Addition
+2025-10-06 18:50:34,467 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 18:50:34,468 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 18:50:34,482 - INFO - History auto-saved
+2025-10-06 18:52:44,980 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:52:44,982 - INFO - Loaded 24 calculations from history
+2025-10-06 18:52:44,982 - INFO - Calculator initialized with configuration
+2025-10-06 18:52:44,982 - INFO - Added observer: LoggingObserver
+2025-10-06 18:52:44,982 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:52:44,983 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:52:44,985 - INFO - Loaded 24 calculations from history
+2025-10-06 18:52:44,985 - INFO - Calculator initialized with configuration
+2025-10-06 18:52:44,985 - INFO - Added observer: LoggingObserver
+2025-10-06 18:52:44,985 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:52:44,987 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 18:52:44,987 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 18:52:44,989 - INFO - Loaded 24 calculations from history
+2025-10-06 18:52:44,989 - INFO - Calculator initialized with configuration
+2025-10-06 18:52:44,989 - INFO - Added observer: LoggingObserver
+2025-10-06 18:52:44,989 - INFO - Added observer: AutoSaveObserver
+2025-10-06 18:52:44,990 - INFO - Set operation: Addition
+2025-10-06 18:52:44,990 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 18:52:44,990 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 18:52:45,005 - INFO - History auto-saved
+2025-10-06 19:01:14,342 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:01:14,344 - INFO - Loaded 25 calculations from history
+2025-10-06 19:01:14,344 - INFO - Calculator initialized with configuration
+2025-10-06 19:01:14,344 - INFO - Added observer: LoggingObserver
+2025-10-06 19:01:14,344 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:01:14,345 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:01:14,347 - INFO - Loaded 25 calculations from history
+2025-10-06 19:01:14,347 - INFO - Calculator initialized with configuration
+2025-10-06 19:01:14,347 - INFO - Added observer: LoggingObserver
+2025-10-06 19:01:14,347 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:01:14,348 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:01:14,349 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:01:14,351 - INFO - Loaded 25 calculations from history
+2025-10-06 19:01:14,351 - INFO - Calculator initialized with configuration
+2025-10-06 19:01:14,351 - INFO - Added observer: LoggingObserver
+2025-10-06 19:01:14,351 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:01:14,351 - INFO - Set operation: Addition
+2025-10-06 19:01:14,351 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 19:01:14,352 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:01:14,366 - INFO - History auto-saved
+2025-10-06 19:01:50,581 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:01:50,583 - INFO - Loaded 26 calculations from history
+2025-10-06 19:01:50,583 - INFO - Calculator initialized with configuration
+2025-10-06 19:01:50,583 - INFO - Added observer: LoggingObserver
+2025-10-06 19:01:50,583 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:01:50,585 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:01:50,586 - INFO - Loaded 26 calculations from history
+2025-10-06 19:01:50,587 - INFO - Calculator initialized with configuration
+2025-10-06 19:01:50,587 - INFO - Added observer: LoggingObserver
+2025-10-06 19:01:50,587 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:01:50,588 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:01:50,589 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:01:50,591 - INFO - Loaded 26 calculations from history
+2025-10-06 19:01:50,591 - INFO - Calculator initialized with configuration
+2025-10-06 19:01:50,591 - INFO - Added observer: LoggingObserver
+2025-10-06 19:01:50,591 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:01:50,591 - INFO - Set operation: Addition
+2025-10-06 19:01:50,591 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 19:01:50,592 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:01:50,606 - INFO - History auto-saved
+2025-10-06 19:04:40,858 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:04:40,860 - INFO - Loaded 27 calculations from history
+2025-10-06 19:04:40,860 - INFO - Calculator initialized with configuration
+2025-10-06 19:04:40,860 - INFO - Added observer: LoggingObserver
+2025-10-06 19:04:40,860 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:04:40,861 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:04:40,863 - INFO - Loaded 27 calculations from history
+2025-10-06 19:04:40,863 - INFO - Calculator initialized with configuration
+2025-10-06 19:04:40,863 - INFO - Added observer: LoggingObserver
+2025-10-06 19:04:40,863 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:04:40,865 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:04:40,866 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:04:40,867 - INFO - Loaded 27 calculations from history
+2025-10-06 19:04:40,867 - INFO - Calculator initialized with configuration
+2025-10-06 19:04:40,867 - INFO - Added observer: LoggingObserver
+2025-10-06 19:04:40,867 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:04:40,868 - INFO - Set operation: Addition
+2025-10-06 19:04:40,868 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 19:04:40,868 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:04:40,883 - INFO - History auto-saved
+2025-10-06 19:06:25,384 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:06:25,386 - INFO - Loaded 28 calculations from history
+2025-10-06 19:06:25,386 - INFO - Calculator initialized with configuration
+2025-10-06 19:06:25,386 - INFO - Added observer: LoggingObserver
+2025-10-06 19:06:25,386 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:06:25,388 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:06:25,389 - INFO - Loaded 28 calculations from history
+2025-10-06 19:06:25,389 - INFO - Calculator initialized with configuration
+2025-10-06 19:06:25,389 - INFO - Added observer: LoggingObserver
+2025-10-06 19:06:25,389 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:06:25,391 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:06:25,392 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:06:25,394 - INFO - Loaded 28 calculations from history
+2025-10-06 19:06:25,394 - INFO - Calculator initialized with configuration
+2025-10-06 19:06:25,394 - INFO - Added observer: LoggingObserver
+2025-10-06 19:06:25,394 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:06:25,394 - INFO - Set operation: Addition
+2025-10-06 19:06:25,394 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 19:06:25,395 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:06:25,410 - INFO - History auto-saved
+2025-10-06 19:07:57,260 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:07:57,262 - INFO - Loaded 29 calculations from history
+2025-10-06 19:07:57,262 - INFO - Calculator initialized with configuration
+2025-10-06 19:07:57,262 - INFO - Added observer: LoggingObserver
+2025-10-06 19:07:57,262 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:07:57,264 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:07:57,265 - INFO - Loaded 29 calculations from history
+2025-10-06 19:07:57,265 - INFO - Calculator initialized with configuration
+2025-10-06 19:07:57,265 - INFO - Added observer: LoggingObserver
+2025-10-06 19:07:57,265 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:07:57,266 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:07:57,267 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:07:57,269 - INFO - Loaded 29 calculations from history
+2025-10-06 19:07:57,269 - INFO - Calculator initialized with configuration
+2025-10-06 19:07:57,269 - INFO - Added observer: LoggingObserver
+2025-10-06 19:07:57,269 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:07:57,269 - INFO - Set operation: Addition
+2025-10-06 19:07:57,269 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 19:07:57,270 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:07:57,284 - INFO - History auto-saved
+2025-10-06 19:10:19,266 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:10:19,268 - INFO - Loaded 30 calculations from history
+2025-10-06 19:10:19,268 - INFO - Calculator initialized with configuration
+2025-10-06 19:10:19,268 - INFO - Added observer: LoggingObserver
+2025-10-06 19:10:19,268 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:10:19,270 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:10:19,271 - INFO - Loaded 30 calculations from history
+2025-10-06 19:10:19,271 - INFO - Calculator initialized with configuration
+2025-10-06 19:10:19,271 - INFO - Added observer: LoggingObserver
+2025-10-06 19:10:19,271 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:10:19,273 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:10:19,274 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:10:19,276 - INFO - Loaded 30 calculations from history
+2025-10-06 19:10:19,276 - INFO - Calculator initialized with configuration
+2025-10-06 19:10:19,276 - INFO - Added observer: LoggingObserver
+2025-10-06 19:10:19,276 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:10:19,276 - INFO - Set operation: Addition
+2025-10-06 19:10:19,276 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 19:10:19,277 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:10:19,291 - INFO - History auto-saved
+2025-10-06 19:10:42,040 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:10:42,043 - INFO - Loaded 31 calculations from history
+2025-10-06 19:10:42,043 - INFO - Calculator initialized with configuration
+2025-10-06 19:10:42,043 - INFO - Added observer: LoggingObserver
+2025-10-06 19:10:42,043 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:10:42,044 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:10:42,046 - INFO - Loaded 31 calculations from history
+2025-10-06 19:10:42,046 - INFO - Calculator initialized with configuration
+2025-10-06 19:10:42,046 - INFO - Added observer: LoggingObserver
+2025-10-06 19:10:42,046 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:10:42,048 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:10:42,049 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:10:42,051 - INFO - Loaded 31 calculations from history
+2025-10-06 19:10:42,051 - INFO - Calculator initialized with configuration
+2025-10-06 19:10:42,051 - INFO - Added observer: LoggingObserver
+2025-10-06 19:10:42,051 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:10:42,051 - INFO - Set operation: Addition
+2025-10-06 19:10:42,051 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 19:10:42,052 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:10:42,067 - INFO - History auto-saved
+2025-10-06 19:10:59,586 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:10:59,588 - INFO - Loaded 32 calculations from history
+2025-10-06 19:10:59,588 - INFO - Calculator initialized with configuration
+2025-10-06 19:10:59,588 - INFO - Added observer: LoggingObserver
+2025-10-06 19:10:59,588 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:10:59,589 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:10:59,591 - INFO - Loaded 32 calculations from history
+2025-10-06 19:10:59,591 - INFO - Calculator initialized with configuration
+2025-10-06 19:10:59,591 - INFO - Added observer: LoggingObserver
+2025-10-06 19:10:59,591 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:10:59,593 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:10:59,594 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:10:59,596 - INFO - Loaded 32 calculations from history
+2025-10-06 19:10:59,596 - INFO - Calculator initialized with configuration
+2025-10-06 19:10:59,596 - INFO - Added observer: LoggingObserver
+2025-10-06 19:10:59,596 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:10:59,596 - INFO - Set operation: Addition
+2025-10-06 19:10:59,596 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 19:10:59,597 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:10:59,611 - INFO - History auto-saved
+2025-10-06 19:14:21,760 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:14:21,762 - INFO - Loaded 33 calculations from history
+2025-10-06 19:14:21,762 - INFO - Calculator initialized with configuration
+2025-10-06 19:14:21,762 - INFO - Added observer: LoggingObserver
+2025-10-06 19:14:21,762 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:14:21,764 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:14:21,766 - INFO - Loaded 33 calculations from history
+2025-10-06 19:14:21,766 - INFO - Calculator initialized with configuration
+2025-10-06 19:14:21,766 - INFO - Added observer: LoggingObserver
+2025-10-06 19:14:21,766 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:14:21,767 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:14:21,768 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:14:21,770 - INFO - Loaded 33 calculations from history
+2025-10-06 19:14:21,770 - INFO - Calculator initialized with configuration
+2025-10-06 19:14:21,770 - INFO - Added observer: LoggingObserver
+2025-10-06 19:14:21,770 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:14:21,770 - INFO - Set operation: Addition
+2025-10-06 19:14:21,770 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 19:14:21,771 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:14:21,785 - INFO - History auto-saved
+2025-10-06 19:15:59,379 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:15:59,381 - INFO - Loaded 34 calculations from history
+2025-10-06 19:15:59,381 - INFO - Calculator initialized with configuration
+2025-10-06 19:15:59,381 - INFO - Added observer: LoggingObserver
+2025-10-06 19:15:59,381 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:15:59,383 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:15:59,385 - INFO - Loaded 34 calculations from history
+2025-10-06 19:15:59,385 - INFO - Calculator initialized with configuration
+2025-10-06 19:15:59,385 - INFO - Added observer: LoggingObserver
+2025-10-06 19:15:59,385 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:15:59,386 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:15:59,387 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:15:59,389 - INFO - Loaded 34 calculations from history
+2025-10-06 19:15:59,389 - INFO - Calculator initialized with configuration
+2025-10-06 19:15:59,389 - INFO - Added observer: LoggingObserver
+2025-10-06 19:15:59,389 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:15:59,389 - INFO - Set operation: Addition
+2025-10-06 19:15:59,389 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 19:15:59,390 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:15:59,405 - INFO - History auto-saved
+2025-10-06 19:16:44,937 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:16:44,940 - INFO - Loaded 35 calculations from history
+2025-10-06 19:16:44,940 - INFO - Calculator initialized with configuration
+2025-10-06 19:16:44,940 - INFO - Added observer: LoggingObserver
+2025-10-06 19:16:44,940 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:16:44,941 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:16:44,943 - INFO - Loaded 35 calculations from history
+2025-10-06 19:16:44,943 - INFO - Calculator initialized with configuration
+2025-10-06 19:16:44,943 - INFO - Added observer: LoggingObserver
+2025-10-06 19:16:44,943 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:16:44,945 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:16:44,946 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:16:44,948 - INFO - Loaded 35 calculations from history
+2025-10-06 19:16:44,948 - INFO - Calculator initialized with configuration
+2025-10-06 19:16:44,948 - INFO - Added observer: LoggingObserver
+2025-10-06 19:16:44,948 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:16:44,948 - INFO - Set operation: Addition
+2025-10-06 19:16:44,948 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 19:16:44,949 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:16:44,964 - INFO - History auto-saved
+2025-10-06 19:18:08,642 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:18:08,644 - INFO - Loaded 36 calculations from history
+2025-10-06 19:18:08,644 - INFO - Calculator initialized with configuration
+2025-10-06 19:18:08,644 - INFO - Added observer: LoggingObserver
+2025-10-06 19:18:08,644 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:18:08,645 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:18:08,647 - INFO - Loaded 36 calculations from history
+2025-10-06 19:18:08,647 - INFO - Calculator initialized with configuration
+2025-10-06 19:18:08,647 - INFO - Added observer: LoggingObserver
+2025-10-06 19:18:08,647 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:18:08,649 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:18:08,650 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:18:08,652 - INFO - Loaded 36 calculations from history
+2025-10-06 19:18:08,652 - INFO - Calculator initialized with configuration
+2025-10-06 19:18:08,652 - INFO - Added observer: LoggingObserver
+2025-10-06 19:18:08,652 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:18:08,652 - INFO - Set operation: Addition
+2025-10-06 19:18:08,652 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 19:18:08,653 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:18:08,667 - INFO - History auto-saved
+2025-10-06 19:18:49,672 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:18:49,674 - INFO - Loaded 37 calculations from history
+2025-10-06 19:18:49,674 - INFO - Calculator initialized with configuration
+2025-10-06 19:18:49,674 - INFO - Added observer: LoggingObserver
+2025-10-06 19:18:49,674 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:18:49,675 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:18:49,677 - INFO - Loaded 37 calculations from history
+2025-10-06 19:18:49,677 - INFO - Calculator initialized with configuration
+2025-10-06 19:18:49,677 - INFO - Added observer: LoggingObserver
+2025-10-06 19:18:49,677 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:18:49,679 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:18:49,680 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:18:49,681 - INFO - Loaded 37 calculations from history
+2025-10-06 19:18:49,682 - INFO - Calculator initialized with configuration
+2025-10-06 19:18:49,682 - INFO - Added observer: LoggingObserver
+2025-10-06 19:18:49,682 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:18:49,682 - INFO - Set operation: Addition
+2025-10-06 19:18:49,682 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 19:18:49,682 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:18:49,697 - INFO - History auto-saved
+2025-10-06 19:20:36,007 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:20:36,010 - INFO - Loaded 38 calculations from history
+2025-10-06 19:20:36,010 - INFO - Calculator initialized with configuration
+2025-10-06 19:20:36,010 - INFO - Added observer: LoggingObserver
+2025-10-06 19:20:36,010 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:20:36,011 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:20:36,013 - INFO - Loaded 38 calculations from history
+2025-10-06 19:20:36,013 - INFO - Calculator initialized with configuration
+2025-10-06 19:20:36,013 - INFO - Added observer: LoggingObserver
+2025-10-06 19:20:36,013 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:20:36,014 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:20:36,016 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:20:36,018 - INFO - Loaded 38 calculations from history
+2025-10-06 19:20:36,018 - INFO - Calculator initialized with configuration
+2025-10-06 19:20:36,018 - INFO - Added observer: LoggingObserver
+2025-10-06 19:20:36,018 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:20:36,018 - INFO - Set operation: Addition
+2025-10-06 19:20:36,018 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 19:20:36,019 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:20:36,033 - INFO - History auto-saved
+2025-10-06 19:23:35,982 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:23:35,985 - INFO - Loaded 39 calculations from history
+2025-10-06 19:23:35,985 - INFO - Calculator initialized with configuration
+2025-10-06 19:23:35,985 - INFO - Added observer: LoggingObserver
+2025-10-06 19:23:35,985 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:23:35,986 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:23:35,988 - INFO - Loaded 39 calculations from history
+2025-10-06 19:23:35,988 - INFO - Calculator initialized with configuration
+2025-10-06 19:23:35,988 - INFO - Added observer: LoggingObserver
+2025-10-06 19:23:35,988 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:23:35,990 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:23:35,992 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:23:35,994 - INFO - Loaded 39 calculations from history
+2025-10-06 19:23:35,994 - INFO - Calculator initialized with configuration
+2025-10-06 19:23:35,994 - INFO - Added observer: LoggingObserver
+2025-10-06 19:23:35,994 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:23:35,994 - INFO - Set operation: Addition
+2025-10-06 19:23:35,994 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 19:23:35,995 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:23:36,049 - INFO - History auto-saved
+2025-10-06 19:26:32,906 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:26:32,909 - INFO - Loaded 40 calculations from history
+2025-10-06 19:26:32,909 - INFO - Calculator initialized with configuration
+2025-10-06 19:26:32,909 - INFO - Added observer: LoggingObserver
+2025-10-06 19:26:32,909 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:26:32,910 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:26:32,912 - INFO - Loaded 40 calculations from history
+2025-10-06 19:26:32,912 - INFO - Calculator initialized with configuration
+2025-10-06 19:26:32,912 - INFO - Added observer: LoggingObserver
+2025-10-06 19:26:32,913 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:26:32,914 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:26:32,915 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:26:32,917 - INFO - Loaded 40 calculations from history
+2025-10-06 19:26:32,917 - INFO - Calculator initialized with configuration
+2025-10-06 19:26:32,917 - INFO - Added observer: LoggingObserver
+2025-10-06 19:26:32,917 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:26:32,917 - INFO - Set operation: Addition
+2025-10-06 19:26:32,917 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 19:26:32,918 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:26:32,939 - INFO - History auto-saved
+2025-10-06 19:28:06,880 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:28:06,882 - INFO - Loaded 41 calculations from history
+2025-10-06 19:28:06,882 - INFO - Calculator initialized with configuration
+2025-10-06 19:28:06,882 - INFO - Added observer: LoggingObserver
+2025-10-06 19:28:06,882 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:28:06,884 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:28:06,886 - INFO - Loaded 41 calculations from history
+2025-10-06 19:28:06,886 - INFO - Calculator initialized with configuration
+2025-10-06 19:28:06,886 - INFO - Added observer: LoggingObserver
+2025-10-06 19:28:06,886 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:28:06,887 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:28:06,888 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:28:06,891 - INFO - Loaded 41 calculations from history
+2025-10-06 19:28:06,891 - INFO - Calculator initialized with configuration
+2025-10-06 19:28:06,891 - INFO - Added observer: LoggingObserver
+2025-10-06 19:28:06,891 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:28:06,891 - INFO - Set operation: Addition
+2025-10-06 19:28:06,891 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 19:28:06,892 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:28:06,919 - INFO - History auto-saved
+2025-10-06 19:28:27,568 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:28:27,571 - INFO - Loaded 42 calculations from history
+2025-10-06 19:28:27,571 - INFO - Calculator initialized with configuration
+2025-10-06 19:28:27,571 - INFO - Added observer: LoggingObserver
+2025-10-06 19:28:27,571 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:28:27,572 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:28:27,574 - INFO - Loaded 42 calculations from history
+2025-10-06 19:28:27,574 - INFO - Calculator initialized with configuration
+2025-10-06 19:28:27,574 - INFO - Added observer: LoggingObserver
+2025-10-06 19:28:27,574 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:28:27,575 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:28:27,576 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:28:27,578 - INFO - Loaded 42 calculations from history
+2025-10-06 19:28:27,579 - INFO - Calculator initialized with configuration
+2025-10-06 19:28:27,579 - INFO - Added observer: LoggingObserver
+2025-10-06 19:28:27,579 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:28:27,579 - INFO - Set operation: Addition
+2025-10-06 19:28:27,579 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 19:28:27,579 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:28:27,600 - INFO - History auto-saved
+2025-10-06 19:28:50,951 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:28:50,954 - INFO - Loaded 43 calculations from history
+2025-10-06 19:28:50,954 - INFO - Calculator initialized with configuration
+2025-10-06 19:28:50,954 - INFO - Added observer: LoggingObserver
+2025-10-06 19:28:50,954 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:28:50,955 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:28:50,957 - INFO - Loaded 43 calculations from history
+2025-10-06 19:28:50,957 - INFO - Calculator initialized with configuration
+2025-10-06 19:28:50,957 - INFO - Added observer: LoggingObserver
+2025-10-06 19:28:50,957 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:28:50,959 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:28:50,960 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:28:50,962 - INFO - Loaded 43 calculations from history
+2025-10-06 19:28:50,962 - INFO - Calculator initialized with configuration
+2025-10-06 19:28:50,962 - INFO - Added observer: LoggingObserver
+2025-10-06 19:28:50,962 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:28:50,963 - INFO - Set operation: Addition
+2025-10-06 19:28:50,963 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 19:28:50,963 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:28:50,994 - INFO - History auto-saved
+2025-10-06 19:31:55,375 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:31:55,378 - INFO - Loaded 44 calculations from history
+2025-10-06 19:31:55,378 - INFO - Calculator initialized with configuration
+2025-10-06 19:31:55,378 - INFO - Added observer: LoggingObserver
+2025-10-06 19:31:55,378 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:31:55,379 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:31:55,381 - INFO - Loaded 44 calculations from history
+2025-10-06 19:31:55,381 - INFO - Calculator initialized with configuration
+2025-10-06 19:31:55,381 - INFO - Added observer: LoggingObserver
+2025-10-06 19:31:55,381 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:31:55,383 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:31:55,384 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:31:55,386 - INFO - Loaded 44 calculations from history
+2025-10-06 19:31:55,387 - INFO - Calculator initialized with configuration
+2025-10-06 19:31:55,387 - INFO - Added observer: LoggingObserver
+2025-10-06 19:31:55,387 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:31:55,387 - INFO - Set operation: Addition
+2025-10-06 19:31:55,387 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 19:31:55,388 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:31:55,422 - INFO - History auto-saved
+2025-10-06 19:34:50,459 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:34:50,462 - INFO - Loaded 45 calculations from history
+2025-10-06 19:34:50,462 - INFO - Calculator initialized with configuration
+2025-10-06 19:34:50,462 - INFO - Added observer: LoggingObserver
+2025-10-06 19:34:50,462 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:34:50,464 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:34:50,466 - INFO - Loaded 45 calculations from history
+2025-10-06 19:34:50,466 - INFO - Calculator initialized with configuration
+2025-10-06 19:34:50,466 - INFO - Added observer: LoggingObserver
+2025-10-06 19:34:50,466 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:34:50,468 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:34:50,469 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:34:50,471 - INFO - Loaded 45 calculations from history
+2025-10-06 19:34:50,471 - INFO - Calculator initialized with configuration
+2025-10-06 19:34:50,471 - INFO - Added observer: LoggingObserver
+2025-10-06 19:34:50,471 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:34:50,471 - INFO - Set operation: Addition
+2025-10-06 19:34:50,471 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 19:34:50,473 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:35:33,072 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:35:33,074 - INFO - Loaded 46 calculations from history
+2025-10-06 19:35:33,074 - INFO - Calculator initialized with configuration
+2025-10-06 19:35:33,074 - INFO - Added observer: LoggingObserver
+2025-10-06 19:35:33,074 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:35:33,076 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:35:33,078 - INFO - Loaded 46 calculations from history
+2025-10-06 19:35:33,078 - INFO - Calculator initialized with configuration
+2025-10-06 19:35:33,078 - INFO - Added observer: LoggingObserver
+2025-10-06 19:35:33,078 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:35:33,080 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:35:33,081 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:35:33,083 - INFO - Loaded 46 calculations from history
+2025-10-06 19:35:33,083 - INFO - Calculator initialized with configuration
+2025-10-06 19:35:33,083 - INFO - Added observer: LoggingObserver
+2025-10-06 19:35:33,083 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:35:33,083 - INFO - Set operation: Addition
+2025-10-06 19:35:33,084 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 19:35:33,085 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:40:45,480 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:40:45,483 - INFO - Loaded 47 calculations from history
+2025-10-06 19:40:45,483 - INFO - Calculator initialized with configuration
+2025-10-06 19:40:45,483 - INFO - Added observer: LoggingObserver
+2025-10-06 19:40:45,483 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:40:45,485 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:40:45,487 - INFO - Loaded 47 calculations from history
+2025-10-06 19:40:45,487 - INFO - Calculator initialized with configuration
+2025-10-06 19:40:45,487 - INFO - Added observer: LoggingObserver
+2025-10-06 19:40:45,488 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:40:45,489 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:40:45,491 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:40:45,493 - INFO - Loaded 47 calculations from history
+2025-10-06 19:40:45,493 - INFO - Calculator initialized with configuration
+2025-10-06 19:40:45,493 - INFO - Added observer: LoggingObserver
+2025-10-06 19:40:45,493 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:40:45,493 - INFO - Set operation: Addition
+2025-10-06 19:40:45,493 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 19:40:45,494 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:40:45,529 - INFO - History auto-saved
+2025-10-06 19:44:08,759 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:44:08,762 - INFO - Loaded 48 calculations from history
+2025-10-06 19:44:08,762 - INFO - Calculator initialized with configuration
+2025-10-06 19:44:08,762 - INFO - Added observer: LoggingObserver
+2025-10-06 19:44:08,762 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:44:08,763 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:44:08,765 - INFO - Loaded 48 calculations from history
+2025-10-06 19:44:08,765 - INFO - Calculator initialized with configuration
+2025-10-06 19:44:08,765 - INFO - Added observer: LoggingObserver
+2025-10-06 19:44:08,765 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:44:08,767 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:44:08,768 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:44:08,772 - INFO - Loaded 48 calculations from history
+2025-10-06 19:44:08,772 - INFO - Calculator initialized with configuration
+2025-10-06 19:44:08,772 - INFO - Added observer: LoggingObserver
+2025-10-06 19:44:08,772 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:44:08,772 - INFO - Set operation: Addition
+2025-10-06 19:44:08,772 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 19:44:08,773 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:46:45,745 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:46:45,748 - INFO - Loaded 49 calculations from history
+2025-10-06 19:46:45,748 - INFO - Calculator initialized with configuration
+2025-10-06 19:46:45,748 - INFO - Added observer: LoggingObserver
+2025-10-06 19:46:45,748 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:46:45,750 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:46:45,752 - INFO - Loaded 49 calculations from history
+2025-10-06 19:46:45,752 - INFO - Calculator initialized with configuration
+2025-10-06 19:46:45,752 - INFO - Added observer: LoggingObserver
+2025-10-06 19:46:45,752 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:46:45,753 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:46:45,755 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:46:45,757 - INFO - Loaded 49 calculations from history
+2025-10-06 19:46:45,757 - INFO - Calculator initialized with configuration
+2025-10-06 19:46:45,757 - INFO - Added observer: LoggingObserver
+2025-10-06 19:46:45,757 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:46:45,757 - INFO - Set operation: Addition
+2025-10-06 19:46:45,758 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 19:46:45,758 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:46:45,902 - INFO - History auto-saved
+2025-10-06 19:48:29,791 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:48:29,794 - INFO - Loaded 50 calculations from history
+2025-10-06 19:48:29,794 - INFO - Calculator initialized with configuration
+2025-10-06 19:48:29,794 - INFO - Added observer: LoggingObserver
+2025-10-06 19:48:29,794 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:48:29,796 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:48:29,798 - INFO - Loaded 50 calculations from history
+2025-10-06 19:48:29,798 - INFO - Calculator initialized with configuration
+2025-10-06 19:48:29,798 - INFO - Added observer: LoggingObserver
+2025-10-06 19:48:29,798 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:48:29,800 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:48:29,801 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:48:29,803 - INFO - Loaded 50 calculations from history
+2025-10-06 19:48:29,803 - INFO - Calculator initialized with configuration
+2025-10-06 19:48:29,803 - INFO - Added observer: LoggingObserver
+2025-10-06 19:48:29,803 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:48:29,804 - INFO - Set operation: Addition
+2025-10-06 19:48:29,804 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 19:48:29,805 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:48:29,837 - INFO - History auto-saved
+2025-10-06 19:50:12,767 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:50:12,769 - INFO - Loaded 51 calculations from history
+2025-10-06 19:50:12,769 - INFO - Calculator initialized with configuration
+2025-10-06 19:50:12,769 - INFO - Added observer: LoggingObserver
+2025-10-06 19:50:12,769 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:50:12,771 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:50:12,773 - INFO - Loaded 51 calculations from history
+2025-10-06 19:50:12,773 - INFO - Calculator initialized with configuration
+2025-10-06 19:50:12,773 - INFO - Added observer: LoggingObserver
+2025-10-06 19:50:12,773 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:50:12,775 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:50:12,776 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:50:12,778 - INFO - Loaded 51 calculations from history
+2025-10-06 19:50:12,778 - INFO - Calculator initialized with configuration
+2025-10-06 19:50:12,778 - INFO - Added observer: LoggingObserver
+2025-10-06 19:50:12,778 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:50:12,778 - INFO - Set operation: Addition
+2025-10-06 19:50:12,779 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 19:50:12,779 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:50:12,833 - INFO - History auto-saved
+2025-10-06 19:53:20,501 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:53:20,504 - INFO - Loaded 52 calculations from history
+2025-10-06 19:53:20,504 - INFO - Calculator initialized with configuration
+2025-10-06 19:53:20,504 - INFO - Added observer: LoggingObserver
+2025-10-06 19:53:20,504 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:53:20,505 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:53:20,508 - INFO - Loaded 52 calculations from history
+2025-10-06 19:53:20,508 - INFO - Calculator initialized with configuration
+2025-10-06 19:53:20,508 - INFO - Added observer: LoggingObserver
+2025-10-06 19:53:20,508 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:53:20,509 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:53:20,510 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:53:20,513 - INFO - Loaded 52 calculations from history
+2025-10-06 19:53:20,513 - INFO - Calculator initialized with configuration
+2025-10-06 19:53:20,513 - INFO - Added observer: LoggingObserver
+2025-10-06 19:53:20,513 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:53:20,513 - INFO - Set operation: Addition
+2025-10-06 19:53:20,513 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 19:53:20,514 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:53:20,585 - INFO - History auto-saved
+2025-10-06 19:59:49,602 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:59:49,606 - INFO - Loaded 53 calculations from history
+2025-10-06 19:59:49,606 - INFO - Calculator initialized with configuration
+2025-10-06 19:59:49,606 - INFO - Added observer: LoggingObserver
+2025-10-06 19:59:49,606 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:59:49,607 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:59:49,610 - INFO - Loaded 53 calculations from history
+2025-10-06 19:59:49,610 - INFO - Calculator initialized with configuration
+2025-10-06 19:59:49,610 - INFO - Added observer: LoggingObserver
+2025-10-06 19:59:49,610 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:59:49,612 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:59:49,613 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 19:59:49,616 - INFO - Loaded 53 calculations from history
+2025-10-06 19:59:49,616 - INFO - Calculator initialized with configuration
+2025-10-06 19:59:49,616 - INFO - Added observer: LoggingObserver
+2025-10-06 19:59:49,616 - INFO - Added observer: AutoSaveObserver
+2025-10-06 19:59:49,616 - INFO - Set operation: Addition
+2025-10-06 19:59:49,616 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 19:59:49,616 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 19:59:49,688 - INFO - History auto-saved
+2025-10-06 20:02:02,116 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:02:02,120 - INFO - Loaded 54 calculations from history
+2025-10-06 20:02:02,120 - INFO - Calculator initialized with configuration
+2025-10-06 20:02:02,120 - INFO - Added observer: LoggingObserver
+2025-10-06 20:02:02,120 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:02:02,121 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:02:02,123 - INFO - Loaded 54 calculations from history
+2025-10-06 20:02:02,123 - INFO - Calculator initialized with configuration
+2025-10-06 20:02:02,123 - INFO - Added observer: LoggingObserver
+2025-10-06 20:02:02,123 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:02:02,125 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:02:02,126 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:02:02,129 - INFO - Loaded 54 calculations from history
+2025-10-06 20:02:02,129 - INFO - Calculator initialized with configuration
+2025-10-06 20:02:02,129 - INFO - Added observer: LoggingObserver
+2025-10-06 20:02:02,129 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:02:02,129 - INFO - Set operation: Addition
+2025-10-06 20:02:02,129 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 20:02:02,130 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:02:02,200 - INFO - History auto-saved
+2025-10-06 20:03:42,527 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:03:42,530 - INFO - Loaded 55 calculations from history
+2025-10-06 20:03:42,530 - INFO - Calculator initialized with configuration
+2025-10-06 20:03:42,530 - INFO - Added observer: LoggingObserver
+2025-10-06 20:03:42,530 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:03:42,532 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:03:42,534 - INFO - Loaded 55 calculations from history
+2025-10-06 20:03:42,534 - INFO - Calculator initialized with configuration
+2025-10-06 20:03:42,534 - INFO - Added observer: LoggingObserver
+2025-10-06 20:03:42,534 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:03:42,536 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:03:42,537 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:03:42,540 - INFO - Loaded 55 calculations from history
+2025-10-06 20:03:42,540 - INFO - Calculator initialized with configuration
+2025-10-06 20:03:42,540 - INFO - Added observer: LoggingObserver
+2025-10-06 20:03:42,540 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:03:42,540 - INFO - Set operation: Addition
+2025-10-06 20:03:42,540 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 20:03:42,541 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:03:42,613 - INFO - History auto-saved
+2025-10-06 20:04:12,914 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:04:12,918 - INFO - Loaded 56 calculations from history
+2025-10-06 20:04:12,918 - INFO - Calculator initialized with configuration
+2025-10-06 20:04:12,918 - INFO - Added observer: LoggingObserver
+2025-10-06 20:04:12,918 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:04:12,919 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:04:12,922 - INFO - Loaded 56 calculations from history
+2025-10-06 20:04:12,922 - INFO - Calculator initialized with configuration
+2025-10-06 20:04:12,922 - INFO - Added observer: LoggingObserver
+2025-10-06 20:04:12,922 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:04:12,923 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:04:12,925 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:04:12,927 - INFO - Loaded 56 calculations from history
+2025-10-06 20:04:12,927 - INFO - Calculator initialized with configuration
+2025-10-06 20:04:12,927 - INFO - Added observer: LoggingObserver
+2025-10-06 20:04:12,927 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:04:12,927 - INFO - Set operation: Addition
+2025-10-06 20:04:12,927 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 20:04:12,928 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:04:12,999 - INFO - History auto-saved
+2025-10-06 20:05:45,993 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:05:45,996 - INFO - Loaded 57 calculations from history
+2025-10-06 20:05:45,996 - INFO - Calculator initialized with configuration
+2025-10-06 20:05:45,996 - INFO - Added observer: LoggingObserver
+2025-10-06 20:05:45,996 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:05:45,997 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:05:46,000 - INFO - Loaded 57 calculations from history
+2025-10-06 20:05:46,000 - INFO - Calculator initialized with configuration
+2025-10-06 20:05:46,000 - INFO - Added observer: LoggingObserver
+2025-10-06 20:05:46,000 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:05:46,002 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:05:46,002 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:05:46,005 - INFO - Loaded 57 calculations from history
+2025-10-06 20:05:46,005 - INFO - Calculator initialized with configuration
+2025-10-06 20:05:46,005 - INFO - Added observer: LoggingObserver
+2025-10-06 20:05:46,005 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:05:46,005 - INFO - Set operation: Addition
+2025-10-06 20:05:46,005 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 20:05:46,006 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:05:46,077 - INFO - History auto-saved
+2025-10-06 20:07:37,880 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:07:37,883 - INFO - Loaded 58 calculations from history
+2025-10-06 20:07:37,883 - INFO - Calculator initialized with configuration
+2025-10-06 20:07:37,883 - INFO - Added observer: LoggingObserver
+2025-10-06 20:07:37,883 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:07:37,884 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:07:37,887 - INFO - Loaded 58 calculations from history
+2025-10-06 20:07:37,888 - INFO - Calculator initialized with configuration
+2025-10-06 20:07:37,888 - INFO - Added observer: LoggingObserver
+2025-10-06 20:07:37,888 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:07:37,889 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:07:37,890 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:07:37,893 - INFO - Loaded 58 calculations from history
+2025-10-06 20:07:37,893 - INFO - Calculator initialized with configuration
+2025-10-06 20:07:37,893 - INFO - Added observer: LoggingObserver
+2025-10-06 20:07:37,893 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:07:37,893 - INFO - Set operation: Addition
+2025-10-06 20:07:37,893 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 20:07:37,894 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:07:37,964 - INFO - History auto-saved
+2025-10-06 20:08:38,237 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:08:38,240 - INFO - Loaded 59 calculations from history
+2025-10-06 20:08:38,240 - INFO - Calculator initialized with configuration
+2025-10-06 20:08:38,240 - INFO - Added observer: LoggingObserver
+2025-10-06 20:08:38,241 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:08:38,242 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:08:38,244 - INFO - Loaded 59 calculations from history
+2025-10-06 20:08:38,244 - INFO - Calculator initialized with configuration
+2025-10-06 20:08:38,244 - INFO - Added observer: LoggingObserver
+2025-10-06 20:08:38,244 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:08:38,246 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:08:38,247 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:08:38,250 - INFO - Loaded 59 calculations from history
+2025-10-06 20:08:38,250 - INFO - Calculator initialized with configuration
+2025-10-06 20:08:38,250 - INFO - Added observer: LoggingObserver
+2025-10-06 20:08:38,250 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:08:38,250 - INFO - Set operation: Addition
+2025-10-06 20:08:38,250 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 20:08:38,251 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:08:38,321 - INFO - History auto-saved
+2025-10-06 20:09:52,747 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:09:52,750 - INFO - Loaded 60 calculations from history
+2025-10-06 20:09:52,750 - INFO - Calculator initialized with configuration
+2025-10-06 20:09:52,750 - INFO - Added observer: LoggingObserver
+2025-10-06 20:09:52,750 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:09:52,751 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:09:52,754 - INFO - Loaded 60 calculations from history
+2025-10-06 20:09:52,755 - INFO - Calculator initialized with configuration
+2025-10-06 20:09:52,755 - INFO - Added observer: LoggingObserver
+2025-10-06 20:09:52,755 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:09:52,756 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:09:52,757 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:09:52,760 - INFO - Loaded 60 calculations from history
+2025-10-06 20:09:52,760 - INFO - Calculator initialized with configuration
+2025-10-06 20:09:52,760 - INFO - Added observer: LoggingObserver
+2025-10-06 20:09:52,760 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:09:52,760 - INFO - Set operation: Addition
+2025-10-06 20:09:52,760 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 20:09:52,761 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:09:52,821 - INFO - History auto-saved
+2025-10-06 20:13:27,321 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:13:27,324 - INFO - Loaded 61 calculations from history
+2025-10-06 20:13:27,324 - INFO - Calculator initialized with configuration
+2025-10-06 20:13:27,324 - INFO - Added observer: LoggingObserver
+2025-10-06 20:13:27,324 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:13:27,326 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:13:27,329 - INFO - Loaded 61 calculations from history
+2025-10-06 20:13:27,329 - INFO - Calculator initialized with configuration
+2025-10-06 20:13:27,329 - INFO - Added observer: LoggingObserver
+2025-10-06 20:13:27,329 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:13:27,330 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:13:27,331 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:13:27,334 - INFO - Loaded 61 calculations from history
+2025-10-06 20:13:27,334 - INFO - Calculator initialized with configuration
+2025-10-06 20:13:27,334 - INFO - Added observer: LoggingObserver
+2025-10-06 20:13:27,334 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:13:27,334 - INFO - Set operation: Addition
+2025-10-06 20:13:27,334 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 20:13:27,335 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:13:27,376 - INFO - History auto-saved
+2025-10-06 20:14:53,542 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:14:53,546 - INFO - Loaded 62 calculations from history
+2025-10-06 20:14:53,546 - INFO - Calculator initialized with configuration
+2025-10-06 20:14:53,546 - INFO - Added observer: LoggingObserver
+2025-10-06 20:14:53,546 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:14:53,547 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:14:53,550 - INFO - Loaded 62 calculations from history
+2025-10-06 20:14:53,550 - INFO - Calculator initialized with configuration
+2025-10-06 20:14:53,550 - INFO - Added observer: LoggingObserver
+2025-10-06 20:14:53,550 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:14:53,551 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:14:53,552 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:14:53,555 - INFO - Loaded 62 calculations from history
+2025-10-06 20:14:53,555 - INFO - Calculator initialized with configuration
+2025-10-06 20:14:53,555 - INFO - Added observer: LoggingObserver
+2025-10-06 20:14:53,555 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:14:53,556 - INFO - Set operation: Addition
+2025-10-06 20:14:53,556 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 20:14:53,556 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:14:53,638 - INFO - History auto-saved
+2025-10-06 20:17:29,118 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:17:29,121 - INFO - Loaded 63 calculations from history
+2025-10-06 20:17:29,121 - INFO - Calculator initialized with configuration
+2025-10-06 20:17:29,121 - INFO - Added observer: LoggingObserver
+2025-10-06 20:17:29,121 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:17:29,123 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:17:29,126 - INFO - Loaded 63 calculations from history
+2025-10-06 20:17:29,126 - INFO - Calculator initialized with configuration
+2025-10-06 20:17:29,126 - INFO - Added observer: LoggingObserver
+2025-10-06 20:17:29,126 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:17:29,127 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:17:29,128 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:17:29,132 - INFO - Loaded 63 calculations from history
+2025-10-06 20:17:29,132 - INFO - Calculator initialized with configuration
+2025-10-06 20:17:29,132 - INFO - Added observer: LoggingObserver
+2025-10-06 20:17:29,132 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:17:29,132 - INFO - Set operation: Addition
+2025-10-06 20:17:29,132 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 20:17:29,133 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:17:29,172 - INFO - History auto-saved
+2025-10-06 20:19:06,800 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:19:06,803 - INFO - Loaded 64 calculations from history
+2025-10-06 20:19:06,803 - INFO - Calculator initialized with configuration
+2025-10-06 20:19:06,803 - INFO - Added observer: LoggingObserver
+2025-10-06 20:19:06,803 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:19:06,804 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:19:06,807 - INFO - Loaded 64 calculations from history
+2025-10-06 20:19:06,807 - INFO - Calculator initialized with configuration
+2025-10-06 20:19:06,807 - INFO - Added observer: LoggingObserver
+2025-10-06 20:19:06,807 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:19:06,809 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:19:06,810 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:19:06,813 - INFO - Loaded 64 calculations from history
+2025-10-06 20:19:06,813 - INFO - Calculator initialized with configuration
+2025-10-06 20:19:06,813 - INFO - Added observer: LoggingObserver
+2025-10-06 20:19:06,813 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:19:06,813 - INFO - Set operation: Addition
+2025-10-06 20:19:06,813 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 20:19:06,814 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:19:06,895 - INFO - History auto-saved
+2025-10-06 20:20:56,290 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:20:56,293 - INFO - Loaded 65 calculations from history
+2025-10-06 20:20:56,293 - INFO - Calculator initialized with configuration
+2025-10-06 20:20:56,293 - INFO - Added observer: LoggingObserver
+2025-10-06 20:20:56,293 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:20:56,295 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:20:56,298 - INFO - Loaded 65 calculations from history
+2025-10-06 20:20:56,298 - INFO - Calculator initialized with configuration
+2025-10-06 20:20:56,298 - INFO - Added observer: LoggingObserver
+2025-10-06 20:20:56,298 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:20:56,299 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:20:56,300 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:20:56,303 - INFO - Loaded 65 calculations from history
+2025-10-06 20:20:56,303 - INFO - Calculator initialized with configuration
+2025-10-06 20:20:56,303 - INFO - Added observer: LoggingObserver
+2025-10-06 20:20:56,303 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:20:56,303 - INFO - Set operation: Addition
+2025-10-06 20:20:56,303 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 20:20:56,304 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:20:56,365 - INFO - History auto-saved
+2025-10-06 20:22:00,287 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:22:00,290 - INFO - Loaded 66 calculations from history
+2025-10-06 20:22:00,290 - INFO - Calculator initialized with configuration
+2025-10-06 20:22:00,290 - INFO - Added observer: LoggingObserver
+2025-10-06 20:22:00,291 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:22:00,292 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:22:00,295 - INFO - Loaded 66 calculations from history
+2025-10-06 20:22:00,295 - INFO - Calculator initialized with configuration
+2025-10-06 20:22:00,295 - INFO - Added observer: LoggingObserver
+2025-10-06 20:22:00,295 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:22:00,297 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:22:00,298 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:22:00,301 - INFO - Loaded 66 calculations from history
+2025-10-06 20:22:00,301 - INFO - Calculator initialized with configuration
+2025-10-06 20:22:00,301 - INFO - Added observer: LoggingObserver
+2025-10-06 20:22:00,301 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:22:00,301 - INFO - Set operation: Addition
+2025-10-06 20:22:00,301 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 20:22:00,302 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:22:00,327 - INFO - Logging initialized at: /tmp/logs/calculator.log
+2025-10-06 20:22:00,327 - ERROR - Failed to load history: argument of type 'Mock' is not iterable
+2025-10-06 20:22:00,327 - WARNING - Could not load existing history: Failed to load history: argument of type 'Mock' is not iterable
+2025-10-06 20:22:00,327 - INFO - Calculator initialized with configuration
+2025-10-06 20:22:00,342 - INFO - History auto-saved
+2025-10-06 20:23:38,001 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:23:38,004 - INFO - Loaded 67 calculations from history
+2025-10-06 20:23:38,004 - INFO - Calculator initialized with configuration
+2025-10-06 20:23:38,004 - INFO - Added observer: LoggingObserver
+2025-10-06 20:23:38,004 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:23:38,005 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:23:38,009 - INFO - Loaded 67 calculations from history
+2025-10-06 20:23:38,009 - INFO - Calculator initialized with configuration
+2025-10-06 20:23:38,009 - INFO - Added observer: LoggingObserver
+2025-10-06 20:23:38,009 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:23:38,011 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:23:38,012 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:23:38,015 - INFO - Loaded 67 calculations from history
+2025-10-06 20:23:38,015 - INFO - Calculator initialized with configuration
+2025-10-06 20:23:38,015 - INFO - Added observer: LoggingObserver
+2025-10-06 20:23:38,015 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:23:38,015 - INFO - Set operation: Addition
+2025-10-06 20:23:38,015 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 20:23:38,016 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:23:38,041 - INFO - Logging initialized at: /tmp/logs/calculator.log
+2025-10-06 20:23:38,041 - ERROR - Failed to load history: argument of type 'Mock' is not iterable
+2025-10-06 20:23:38,041 - WARNING - Could not load existing history: Failed to load history: argument of type 'Mock' is not iterable
+2025-10-06 20:23:38,042 - INFO - Calculator initialized with configuration
+2025-10-06 20:23:38,076 - INFO - History auto-saved
+2025-10-06 20:25:03,154 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:25:03,158 - INFO - Loaded 68 calculations from history
+2025-10-06 20:25:03,158 - INFO - Calculator initialized with configuration
+2025-10-06 20:25:03,158 - INFO - Added observer: LoggingObserver
+2025-10-06 20:25:03,158 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:25:03,159 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:25:03,162 - INFO - Loaded 68 calculations from history
+2025-10-06 20:25:03,162 - INFO - Calculator initialized with configuration
+2025-10-06 20:25:03,162 - INFO - Added observer: LoggingObserver
+2025-10-06 20:25:03,162 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:25:03,164 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:25:03,165 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:25:03,168 - INFO - Loaded 68 calculations from history
+2025-10-06 20:25:03,168 - INFO - Calculator initialized with configuration
+2025-10-06 20:25:03,168 - INFO - Added observer: LoggingObserver
+2025-10-06 20:25:03,168 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:25:03,168 - INFO - Set operation: Addition
+2025-10-06 20:25:03,168 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 20:25:03,169 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:25:03,196 - INFO - Logging initialized at: /tmp/logs/calculator.log
+2025-10-06 20:25:03,196 - ERROR - Failed to load history: argument of type 'Mock' is not iterable
+2025-10-06 20:25:03,196 - WARNING - Could not load existing history: Failed to load history: argument of type 'Mock' is not iterable
+2025-10-06 20:25:03,196 - INFO - Calculator initialized with configuration
+2025-10-06 20:25:03,232 - INFO - History auto-saved
+2025-10-06 20:27:57,651 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:27:57,655 - INFO - Loaded 69 calculations from history
+2025-10-06 20:27:57,655 - INFO - Calculator initialized with configuration
+2025-10-06 20:27:57,655 - INFO - Added observer: LoggingObserver
+2025-10-06 20:27:57,655 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:27:57,656 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:27:57,660 - INFO - Loaded 69 calculations from history
+2025-10-06 20:27:57,660 - INFO - Calculator initialized with configuration
+2025-10-06 20:27:57,660 - INFO - Added observer: LoggingObserver
+2025-10-06 20:27:57,660 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:27:57,661 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:27:57,662 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:27:57,666 - INFO - Loaded 69 calculations from history
+2025-10-06 20:27:57,666 - INFO - Calculator initialized with configuration
+2025-10-06 20:27:57,666 - INFO - Added observer: LoggingObserver
+2025-10-06 20:27:57,666 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:27:57,666 - INFO - Set operation: Addition
+2025-10-06 20:27:57,666 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 20:27:57,667 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:27:57,692 - INFO - Logging initialized at: /tmp/logs/calculator.log
+2025-10-06 20:27:57,692 - ERROR - Failed to load history: argument of type 'Mock' is not iterable
+2025-10-06 20:27:57,693 - WARNING - Could not load existing history: Failed to load history: argument of type 'Mock' is not iterable
+2025-10-06 20:27:57,693 - INFO - Calculator initialized with configuration
+2025-10-06 20:27:57,740 - INFO - History auto-saved
+2025-10-06 20:30:31,837 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:30:31,841 - INFO - Loaded 70 calculations from history
+2025-10-06 20:30:31,841 - INFO - Calculator initialized with configuration
+2025-10-06 20:30:31,841 - INFO - Added observer: LoggingObserver
+2025-10-06 20:30:31,841 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:30:31,842 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:30:31,845 - INFO - Loaded 70 calculations from history
+2025-10-06 20:30:31,846 - INFO - Calculator initialized with configuration
+2025-10-06 20:30:31,846 - INFO - Added observer: LoggingObserver
+2025-10-06 20:30:31,846 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:30:31,847 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:30:31,848 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:30:31,851 - INFO - Loaded 70 calculations from history
+2025-10-06 20:30:31,851 - INFO - Calculator initialized with configuration
+2025-10-06 20:30:31,851 - INFO - Added observer: LoggingObserver
+2025-10-06 20:30:31,851 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:30:31,852 - INFO - Set operation: Addition
+2025-10-06 20:30:31,852 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 20:30:31,852 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:30:31,878 - INFO - Logging initialized at: /tmp/logs/calculator.log
+2025-10-06 20:30:31,878 - ERROR - Failed to load history: argument of type 'Mock' is not iterable
+2025-10-06 20:30:31,878 - WARNING - Could not load existing history: Failed to load history: argument of type 'Mock' is not iterable
+2025-10-06 20:30:31,878 - INFO - Calculator initialized with configuration
+2025-10-06 20:30:31,925 - INFO - History auto-saved
+2025-10-06 20:37:00,186 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:37:00,190 - INFO - Loaded 71 calculations from history
+2025-10-06 20:37:00,190 - INFO - Calculator initialized with configuration
+2025-10-06 20:37:00,190 - INFO - Added observer: LoggingObserver
+2025-10-06 20:37:00,190 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:37:00,191 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:37:00,195 - INFO - Loaded 71 calculations from history
+2025-10-06 20:37:00,195 - INFO - Calculator initialized with configuration
+2025-10-06 20:37:00,195 - INFO - Added observer: LoggingObserver
+2025-10-06 20:37:00,195 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:37:00,196 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:37:00,197 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:37:00,201 - INFO - Loaded 71 calculations from history
+2025-10-06 20:37:00,201 - INFO - Calculator initialized with configuration
+2025-10-06 20:37:00,201 - INFO - Added observer: LoggingObserver
+2025-10-06 20:37:00,201 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:37:00,201 - INFO - Set operation: Addition
+2025-10-06 20:37:00,201 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 20:37:00,202 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:37:00,227 - INFO - Logging initialized at: /tmp/logs/calculator.log
+2025-10-06 20:37:00,227 - ERROR - Failed to load history: argument of type 'Mock' is not iterable
+2025-10-06 20:37:00,227 - WARNING - Could not load existing history: Failed to load history: argument of type 'Mock' is not iterable
+2025-10-06 20:37:00,227 - INFO - Calculator initialized with configuration
+2025-10-06 20:37:00,228 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:37:00,232 - INFO - Loaded 72 calculations from history
+2025-10-06 20:37:00,232 - INFO - Calculator initialized with configuration
+2025-10-06 20:37:00,232 - INFO - Added observer: LoggingObserver
+2025-10-06 20:37:00,232 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:37:00,232 - INFO - Set operation: Division
+2025-10-06 20:37:00,232 - ERROR - Validation error: Invalid number format: invalid
+2025-10-06 20:37:00,232 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:37:00,233 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:37:00,237 - INFO - Loaded 72 calculations from history
+2025-10-06 20:37:00,237 - INFO - Calculator initialized with configuration
+2025-10-06 20:37:00,237 - INFO - Added observer: LoggingObserver
+2025-10-06 20:37:00,237 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:37:00,237 - INFO - Set operation: Division
+2025-10-06 20:37:00,237 - ERROR - Validation error: Division by zero is not allowed
+2025-10-06 20:41:08,190 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:41:08,194 - INFO - Loaded 72 calculations from history
+2025-10-06 20:41:08,194 - INFO - Calculator initialized with configuration
+2025-10-06 20:41:08,194 - INFO - Added observer: LoggingObserver
+2025-10-06 20:41:08,194 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:41:08,195 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:41:08,198 - INFO - Loaded 72 calculations from history
+2025-10-06 20:41:08,198 - INFO - Calculator initialized with configuration
+2025-10-06 20:41:08,198 - INFO - Added observer: LoggingObserver
+2025-10-06 20:41:08,199 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:41:08,201 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:41:08,202 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:41:08,205 - INFO - Loaded 72 calculations from history
+2025-10-06 20:41:08,205 - INFO - Calculator initialized with configuration
+2025-10-06 20:41:08,205 - INFO - Added observer: LoggingObserver
+2025-10-06 20:41:08,205 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:41:08,205 - INFO - Set operation: Addition
+2025-10-06 20:41:08,205 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 20:41:08,206 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:41:08,232 - INFO - Logging initialized at: /tmp/logs/calculator.log
+2025-10-06 20:41:08,232 - ERROR - Failed to load history: argument of type 'Mock' is not iterable
+2025-10-06 20:41:08,232 - WARNING - Could not load existing history: Failed to load history: argument of type 'Mock' is not iterable
+2025-10-06 20:41:08,232 - INFO - Calculator initialized with configuration
+2025-10-06 20:41:08,247 - INFO - History auto-saved
+2025-10-06 20:41:28,676 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:41:28,680 - INFO - Loaded 73 calculations from history
+2025-10-06 20:41:28,680 - INFO - Calculator initialized with configuration
+2025-10-06 20:41:28,680 - INFO - Added observer: LoggingObserver
+2025-10-06 20:41:28,680 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:41:28,681 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:41:28,685 - INFO - Loaded 73 calculations from history
+2025-10-06 20:41:28,685 - INFO - Calculator initialized with configuration
+2025-10-06 20:41:28,685 - INFO - Added observer: LoggingObserver
+2025-10-06 20:41:28,685 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:41:28,686 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:41:28,687 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:41:28,691 - INFO - Loaded 73 calculations from history
+2025-10-06 20:41:28,691 - INFO - Calculator initialized with configuration
+2025-10-06 20:41:28,691 - INFO - Added observer: LoggingObserver
+2025-10-06 20:41:28,691 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:41:28,691 - INFO - Set operation: Addition
+2025-10-06 20:41:28,691 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 20:41:28,692 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:41:28,719 - INFO - Logging initialized at: /tmp/logs/calculator.log
+2025-10-06 20:41:28,719 - ERROR - Failed to load history: argument of type 'Mock' is not iterable
+2025-10-06 20:41:28,719 - WARNING - Could not load existing history: Failed to load history: argument of type 'Mock' is not iterable
+2025-10-06 20:41:28,719 - INFO - Calculator initialized with configuration
+2025-10-06 20:41:28,735 - INFO - History auto-saved
+2025-10-06 20:42:25,744 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:42:25,748 - INFO - Loaded 74 calculations from history
+2025-10-06 20:42:25,748 - INFO - Calculator initialized with configuration
+2025-10-06 20:42:25,748 - INFO - Added observer: LoggingObserver
+2025-10-06 20:42:25,748 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:42:25,749 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:42:25,753 - INFO - Loaded 74 calculations from history
+2025-10-06 20:42:25,753 - INFO - Calculator initialized with configuration
+2025-10-06 20:42:25,753 - INFO - Added observer: LoggingObserver
+2025-10-06 20:42:25,753 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:42:25,755 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:42:25,756 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:42:25,759 - INFO - Loaded 74 calculations from history
+2025-10-06 20:42:25,759 - INFO - Calculator initialized with configuration
+2025-10-06 20:42:25,759 - INFO - Added observer: LoggingObserver
+2025-10-06 20:42:25,759 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:42:25,759 - INFO - Set operation: Addition
+2025-10-06 20:42:25,759 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 20:42:25,760 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:42:25,786 - INFO - Logging initialized at: /tmp/logs/calculator.log
+2025-10-06 20:42:25,786 - ERROR - Failed to load history: argument of type 'Mock' is not iterable
+2025-10-06 20:42:25,786 - WARNING - Could not load existing history: Failed to load history: argument of type 'Mock' is not iterable
+2025-10-06 20:42:25,786 - INFO - Calculator initialized with configuration
+2025-10-06 20:42:25,802 - INFO - History auto-saved
+2025-10-06 20:47:45,522 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:47:45,526 - INFO - Loaded 75 calculations from history
+2025-10-06 20:47:45,526 - INFO - Calculator initialized with configuration
+2025-10-06 20:47:45,526 - INFO - Added observer: LoggingObserver
+2025-10-06 20:47:45,526 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:47:45,527 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:47:45,531 - INFO - Loaded 75 calculations from history
+2025-10-06 20:47:45,531 - INFO - Calculator initialized with configuration
+2025-10-06 20:47:45,531 - INFO - Added observer: LoggingObserver
+2025-10-06 20:47:45,531 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:47:45,533 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:47:45,534 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:47:45,537 - INFO - Loaded 75 calculations from history
+2025-10-06 20:47:45,537 - INFO - Calculator initialized with configuration
+2025-10-06 20:47:45,537 - INFO - Added observer: LoggingObserver
+2025-10-06 20:47:45,537 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:47:45,537 - INFO - Set operation: Addition
+2025-10-06 20:47:45,537 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 20:47:45,538 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:47:45,564 - INFO - Logging initialized at: /tmp/logs/calculator.log
+2025-10-06 20:47:45,564 - ERROR - Failed to load history: argument of type 'Mock' is not iterable
+2025-10-06 20:47:45,564 - WARNING - Could not load existing history: Failed to load history: argument of type 'Mock' is not iterable
+2025-10-06 20:47:45,564 - INFO - Calculator initialized with configuration
+2025-10-06 20:47:45,667 - INFO - History auto-saved
+2025-10-06 20:48:08,322 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:48:08,326 - INFO - Loaded 76 calculations from history
+2025-10-06 20:48:08,326 - INFO - Calculator initialized with configuration
+2025-10-06 20:48:08,326 - INFO - Added observer: LoggingObserver
+2025-10-06 20:48:08,326 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:48:08,327 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:48:08,330 - INFO - Loaded 76 calculations from history
+2025-10-06 20:48:08,330 - INFO - Calculator initialized with configuration
+2025-10-06 20:48:08,330 - INFO - Added observer: LoggingObserver
+2025-10-06 20:48:08,330 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:48:08,332 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:48:08,333 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:48:08,336 - INFO - Loaded 76 calculations from history
+2025-10-06 20:48:08,336 - INFO - Calculator initialized with configuration
+2025-10-06 20:48:08,336 - INFO - Added observer: LoggingObserver
+2025-10-06 20:48:08,336 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:48:08,336 - INFO - Set operation: Addition
+2025-10-06 20:48:08,336 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 20:48:08,337 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:48:08,361 - INFO - Logging initialized at: /tmp/logs/calculator.log
+2025-10-06 20:48:08,361 - ERROR - Failed to load history: argument of type 'Mock' is not iterable
+2025-10-06 20:48:08,361 - WARNING - Could not load existing history: Failed to load history: argument of type 'Mock' is not iterable
+2025-10-06 20:48:08,361 - INFO - Calculator initialized with configuration
+2025-10-06 20:48:08,463 - INFO - History auto-saved
+2025-10-06 20:51:03,332 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:51:03,336 - INFO - Loaded 77 calculations from history
+2025-10-06 20:51:03,336 - INFO - Calculator initialized with configuration
+2025-10-06 20:51:03,336 - INFO - Added observer: LoggingObserver
+2025-10-06 20:51:03,336 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:51:03,337 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:51:03,341 - INFO - Loaded 77 calculations from history
+2025-10-06 20:51:03,341 - INFO - Calculator initialized with configuration
+2025-10-06 20:51:03,341 - INFO - Added observer: LoggingObserver
+2025-10-06 20:51:03,341 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:51:03,342 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:51:03,343 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:51:03,346 - INFO - Loaded 77 calculations from history
+2025-10-06 20:51:03,346 - INFO - Calculator initialized with configuration
+2025-10-06 20:51:03,347 - INFO - Added observer: LoggingObserver
+2025-10-06 20:51:03,347 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:51:03,347 - INFO - Set operation: Addition
+2025-10-06 20:51:03,347 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 20:51:03,348 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:51:03,513 - INFO - History auto-saved
+2025-10-06 20:51:44,186 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:51:44,191 - INFO - Loaded 78 calculations from history
+2025-10-06 20:51:44,191 - INFO - Calculator initialized with configuration
+2025-10-06 20:51:44,191 - INFO - Added observer: LoggingObserver
+2025-10-06 20:51:44,191 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:51:44,192 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:51:44,195 - INFO - Loaded 78 calculations from history
+2025-10-06 20:51:44,195 - INFO - Calculator initialized with configuration
+2025-10-06 20:51:44,195 - INFO - Added observer: LoggingObserver
+2025-10-06 20:51:44,195 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:51:44,197 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:51:44,198 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:51:44,201 - INFO - Loaded 78 calculations from history
+2025-10-06 20:51:44,202 - INFO - Calculator initialized with configuration
+2025-10-06 20:51:44,202 - INFO - Added observer: LoggingObserver
+2025-10-06 20:51:44,202 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:51:44,202 - INFO - Set operation: Addition
+2025-10-06 20:51:44,202 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 20:51:44,202 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:51:44,366 - INFO - History auto-saved
+2025-10-06 20:52:10,882 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:52:10,895 - INFO - Loaded 79 calculations from history
+2025-10-06 20:52:10,895 - INFO - Calculator initialized with configuration
+2025-10-06 20:52:10,895 - INFO - Added observer: LoggingObserver
+2025-10-06 20:52:10,895 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:52:10,897 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:52:10,901 - INFO - Loaded 79 calculations from history
+2025-10-06 20:52:10,901 - INFO - Calculator initialized with configuration
+2025-10-06 20:52:10,901 - INFO - Added observer: LoggingObserver
+2025-10-06 20:52:10,901 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:52:10,903 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:52:10,905 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:52:10,909 - INFO - Loaded 79 calculations from history
+2025-10-06 20:52:10,909 - INFO - Calculator initialized with configuration
+2025-10-06 20:52:10,909 - INFO - Added observer: LoggingObserver
+2025-10-06 20:52:10,909 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:52:10,909 - INFO - Set operation: Addition
+2025-10-06 20:52:10,909 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 20:52:10,910 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:52:10,946 - INFO - History auto-saved
+2025-10-06 20:52:46,218 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:52:46,222 - INFO - Loaded 80 calculations from history
+2025-10-06 20:52:46,222 - INFO - Calculator initialized with configuration
+2025-10-06 20:52:46,222 - INFO - Added observer: LoggingObserver
+2025-10-06 20:52:46,222 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:52:46,223 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:52:46,227 - INFO - Loaded 80 calculations from history
+2025-10-06 20:52:46,227 - INFO - Calculator initialized with configuration
+2025-10-06 20:52:46,227 - INFO - Added observer: LoggingObserver
+2025-10-06 20:52:46,227 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:52:46,229 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:52:46,230 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:52:46,234 - INFO - Loaded 80 calculations from history
+2025-10-06 20:52:46,234 - INFO - Calculator initialized with configuration
+2025-10-06 20:52:46,234 - INFO - Added observer: LoggingObserver
+2025-10-06 20:52:46,234 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:52:46,234 - INFO - Set operation: Addition
+2025-10-06 20:52:46,234 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 20:52:46,235 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:52:46,273 - INFO - History auto-saved
+2025-10-06 20:57:45,743 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:57:45,747 - INFO - Loaded 81 calculations from history
+2025-10-06 20:57:45,747 - INFO - Calculator initialized with configuration
+2025-10-06 20:57:45,747 - INFO - Added observer: LoggingObserver
+2025-10-06 20:57:45,747 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:57:45,748 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:57:45,752 - INFO - Loaded 81 calculations from history
+2025-10-06 20:57:45,752 - INFO - Calculator initialized with configuration
+2025-10-06 20:57:45,752 - INFO - Added observer: LoggingObserver
+2025-10-06 20:57:45,752 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:57:45,754 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:57:45,755 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:57:45,759 - INFO - Loaded 81 calculations from history
+2025-10-06 20:57:45,759 - INFO - Calculator initialized with configuration
+2025-10-06 20:57:45,759 - INFO - Added observer: LoggingObserver
+2025-10-06 20:57:45,759 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:57:45,759 - INFO - Set operation: Addition
+2025-10-06 20:57:45,759 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 20:57:45,760 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:57:45,798 - INFO - History auto-saved
+2025-10-06 20:59:37,330 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:59:37,334 - INFO - Loaded 82 calculations from history
+2025-10-06 20:59:37,334 - INFO - Calculator initialized with configuration
+2025-10-06 20:59:37,334 - INFO - Added observer: LoggingObserver
+2025-10-06 20:59:37,334 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:59:37,336 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:59:37,340 - INFO - Loaded 82 calculations from history
+2025-10-06 20:59:37,340 - INFO - Calculator initialized with configuration
+2025-10-06 20:59:37,340 - INFO - Added observer: LoggingObserver
+2025-10-06 20:59:37,340 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:59:37,341 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:59:37,342 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 20:59:37,346 - INFO - Loaded 82 calculations from history
+2025-10-06 20:59:37,346 - INFO - Calculator initialized with configuration
+2025-10-06 20:59:37,346 - INFO - Added observer: LoggingObserver
+2025-10-06 20:59:37,346 - INFO - Added observer: AutoSaveObserver
+2025-10-06 20:59:37,346 - INFO - Set operation: Addition
+2025-10-06 20:59:37,346 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 20:59:37,347 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 20:59:37,385 - INFO - History auto-saved
+2025-10-06 21:00:28,175 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 21:00:28,179 - INFO - Loaded 83 calculations from history
+2025-10-06 21:00:28,179 - INFO - Calculator initialized with configuration
+2025-10-06 21:00:28,179 - INFO - Added observer: LoggingObserver
+2025-10-06 21:00:28,179 - INFO - Added observer: AutoSaveObserver
+2025-10-06 21:00:28,180 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 21:00:28,184 - INFO - Loaded 83 calculations from history
+2025-10-06 21:00:28,184 - INFO - Calculator initialized with configuration
+2025-10-06 21:00:28,184 - INFO - Added observer: LoggingObserver
+2025-10-06 21:00:28,184 - INFO - Added observer: AutoSaveObserver
+2025-10-06 21:00:28,186 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 21:00:28,187 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 21:00:28,190 - INFO - Loaded 83 calculations from history
+2025-10-06 21:00:28,190 - INFO - Calculator initialized with configuration
+2025-10-06 21:00:28,191 - INFO - Added observer: LoggingObserver
+2025-10-06 21:00:28,191 - INFO - Added observer: AutoSaveObserver
+2025-10-06 21:00:28,191 - INFO - Set operation: Addition
+2025-10-06 21:00:28,191 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 21:00:28,191 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 21:00:28,230 - INFO - History auto-saved
+2025-10-06 21:01:40,734 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 21:01:40,738 - INFO - Loaded 84 calculations from history
+2025-10-06 21:01:40,738 - INFO - Calculator initialized with configuration
+2025-10-06 21:01:40,738 - INFO - Added observer: LoggingObserver
+2025-10-06 21:01:40,739 - INFO - Added observer: AutoSaveObserver
+2025-10-06 21:01:40,740 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 21:01:40,743 - INFO - Loaded 84 calculations from history
+2025-10-06 21:01:40,744 - INFO - Calculator initialized with configuration
+2025-10-06 21:01:40,744 - INFO - Added observer: LoggingObserver
+2025-10-06 21:01:40,744 - INFO - Added observer: AutoSaveObserver
+2025-10-06 21:01:40,745 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 21:01:40,746 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 21:01:40,750 - INFO - Loaded 84 calculations from history
+2025-10-06 21:01:40,750 - INFO - Calculator initialized with configuration
+2025-10-06 21:01:40,750 - INFO - Added observer: LoggingObserver
+2025-10-06 21:01:40,750 - INFO - Added observer: AutoSaveObserver
+2025-10-06 21:01:40,750 - INFO - Set operation: Addition
+2025-10-06 21:01:40,750 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 21:01:40,751 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 21:01:40,789 - INFO - History auto-saved
+2025-10-06 21:03:11,476 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 21:03:11,480 - INFO - Loaded 85 calculations from history
+2025-10-06 21:03:11,480 - INFO - Calculator initialized with configuration
+2025-10-06 21:03:11,480 - INFO - Added observer: LoggingObserver
+2025-10-06 21:03:11,480 - INFO - Added observer: AutoSaveObserver
+2025-10-06 21:03:11,481 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 21:03:11,485 - INFO - Loaded 85 calculations from history
+2025-10-06 21:03:11,485 - INFO - Calculator initialized with configuration
+2025-10-06 21:03:11,485 - INFO - Added observer: LoggingObserver
+2025-10-06 21:03:11,485 - INFO - Added observer: AutoSaveObserver
+2025-10-06 21:03:11,487 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 21:03:11,488 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 21:03:11,492 - INFO - Loaded 85 calculations from history
+2025-10-06 21:03:11,492 - INFO - Calculator initialized with configuration
+2025-10-06 21:03:11,492 - INFO - Added observer: LoggingObserver
+2025-10-06 21:03:11,492 - INFO - Added observer: AutoSaveObserver
+2025-10-06 21:03:11,492 - INFO - Set operation: Addition
+2025-10-06 21:03:11,492 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 21:03:11,493 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 21:03:11,531 - INFO - History auto-saved
+2025-10-06 21:03:50,557 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 21:03:50,561 - INFO - Loaded 86 calculations from history
+2025-10-06 21:03:50,561 - INFO - Calculator initialized with configuration
+2025-10-06 21:03:50,561 - INFO - Added observer: LoggingObserver
+2025-10-06 21:03:50,561 - INFO - Added observer: AutoSaveObserver
+2025-10-06 21:03:50,562 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 21:03:50,566 - INFO - Loaded 86 calculations from history
+2025-10-06 21:03:50,566 - INFO - Calculator initialized with configuration
+2025-10-06 21:03:50,566 - INFO - Added observer: LoggingObserver
+2025-10-06 21:03:50,566 - INFO - Added observer: AutoSaveObserver
+2025-10-06 21:03:50,567 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 21:03:50,568 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 21:03:50,573 - INFO - Loaded 86 calculations from history
+2025-10-06 21:03:50,573 - INFO - Calculator initialized with configuration
+2025-10-06 21:03:50,573 - INFO - Added observer: LoggingObserver
+2025-10-06 21:03:50,573 - INFO - Added observer: AutoSaveObserver
+2025-10-06 21:03:50,573 - INFO - Set operation: Addition
+2025-10-06 21:03:50,573 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 21:03:50,574 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 21:03:50,612 - INFO - History auto-saved
+2025-10-06 21:05:17,307 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 21:05:17,311 - INFO - Loaded 87 calculations from history
+2025-10-06 21:05:17,311 - INFO - Calculator initialized with configuration
+2025-10-06 21:05:17,311 - INFO - Added observer: LoggingObserver
+2025-10-06 21:05:17,311 - INFO - Added observer: AutoSaveObserver
+2025-10-06 21:05:17,313 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 21:05:17,316 - INFO - Loaded 87 calculations from history
+2025-10-06 21:05:17,316 - INFO - Calculator initialized with configuration
+2025-10-06 21:05:17,316 - INFO - Added observer: LoggingObserver
+2025-10-06 21:05:17,316 - INFO - Added observer: AutoSaveObserver
+2025-10-06 21:05:17,318 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 21:05:17,319 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 21:05:17,323 - INFO - Loaded 87 calculations from history
+2025-10-06 21:05:17,323 - INFO - Calculator initialized with configuration
+2025-10-06 21:05:17,323 - INFO - Added observer: LoggingObserver
+2025-10-06 21:05:17,323 - INFO - Added observer: AutoSaveObserver
+2025-10-06 21:05:17,323 - INFO - Set operation: Addition
+2025-10-06 21:05:17,323 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 21:05:17,324 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 21:05:17,363 - INFO - History auto-saved
+2025-10-06 21:07:16,151 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 21:07:16,156 - INFO - Loaded 88 calculations from history
+2025-10-06 21:07:16,156 - INFO - Calculator initialized with configuration
+2025-10-06 21:07:16,156 - INFO - Added observer: LoggingObserver
+2025-10-06 21:07:16,156 - INFO - Added observer: AutoSaveObserver
+2025-10-06 21:07:16,157 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 21:07:16,161 - INFO - Loaded 88 calculations from history
+2025-10-06 21:07:16,161 - INFO - Calculator initialized with configuration
+2025-10-06 21:07:16,161 - INFO - Added observer: LoggingObserver
+2025-10-06 21:07:16,161 - INFO - Added observer: AutoSaveObserver
+2025-10-06 21:07:16,163 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 21:07:16,164 - INFO - Logging initialized at: /Users/gloriaerechukwu/Module5/test_logs/test_log.log
+2025-10-06 21:07:16,168 - INFO - Loaded 88 calculations from history
+2025-10-06 21:07:16,168 - INFO - Calculator initialized with configuration
+2025-10-06 21:07:16,168 - INFO - Added observer: LoggingObserver
+2025-10-06 21:07:16,168 - INFO - Added observer: AutoSaveObserver
+2025-10-06 21:07:16,168 - INFO - Set operation: Addition
+2025-10-06 21:07:16,168 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-06 21:07:16,170 - INFO - History saved successfully to /Users/gloriaerechukwu/Module5/test_history/test_history.csv
+2025-10-06 21:07:16,210 - INFO - History auto-saved
